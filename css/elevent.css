@@ -1,16 +1,16 @@
 /*--- Text ---*/
-.sn-hg-1, .sn-hg-2, .sn-hg-3, .sn-hg-4{
+.el-hg-1, .el-hg-2, .el-hg-3, .el-hg-4{
 	font-family: inherit;
 	color: rgb(17, 24, 39);
 	line-height: 1.2;
 }
 
-.sn-text-primary{
+.el-text-primary{
 	color: var(--primary-color);
 }
 
 /*--- Button ---*/
-.sn-btn{
+.el-btn{
 	background: #ffffff;
 	padding: 0.75rem 1.25rem;
 	color: var(--primary-color);
@@ -22,17 +22,17 @@
 	box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
 }
 
-.sn-btn-primary{
+.el-btn-primary{
 	background: var(--primary-color);
 	color: #ffffff;
 }
 
-.sn-btn-small{
+.el-btn-small{
 	padding: 0.5rem 1rem;
 }
 
 /*--- Table ---*/
-.sn-table{
+.el-table{
 	border: 1px solid rgb(229, 231, 235);
 	border-radius: 8px;
 	overflow: hidden;
@@ -40,11 +40,11 @@
 	box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
 }
 
-.sn-table thead{
+.el-table thead{
 	background-color: rgb(249, 250, 251);
 }
 
-.sn-table thead th{
+.el-table thead th{
 	padding: 0.75rem 1.5rem;
 	color: rgb(107, 114, 128);
 	font-size: 12px;
@@ -55,7 +55,7 @@
 	border-bottom: 1px solid rgb(229, 231, 235);
 }
 
-.sn-table td{
+.el-table td{
 	padding: 1rem 1.5rem;
 	font-size: 14px;
 	font-weight: 500;
