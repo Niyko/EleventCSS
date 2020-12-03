@@ -1,4 +1,10 @@
 # `Elevent CSS` :crystal_ball::zap:
+A fast and elegant css components suitable for fast **demo development** or **coding interviews**. Elevent CSS uses `UIkit` as a dependancy for other functions.
+<p align="left">
+    <img src="https://img.shields.io/badge/version-0.0.1-blue.svg" title="version" alt="version">
+    <a href="https://github.com/Niyko/EleventCSS/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Niyko/EleventCSS.svg"></a>
+    <a href="https://github.com/Niyko/EleventCSS/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Niyko/EleventCSS"></a>
+</p>
 
 ## Usage
 Add the required CDN libraries to the project
