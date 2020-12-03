@@ -1,3 +1,18 @@
+## Usage
+Add the required CDN libraries to the project
+`````Html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.5.10/dist/css/uikit.min.css" />
+<link rel="stylesheet" href="https://rawcdn.githack.com/Niyko/EleventCSS/1c2242c4fe351ac625ace854b33e3ca0768dc793/src/elevent.css" />
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.5.10/dist/js/uikit.min.js"></script>
+`````
+And add the CSS variables for the theme color in style. The colors are rgb value as comma separated values, make sure to choose darker shade of `--primary-color` as `--primary-darker-color`
+`````Css
+:root {
+  --primary-color: 79, 70, 229;
+  --primary-darker-color: 49, 46, 129;
+}
+`````
+
 ## Components
 ### Button
 `````Html
