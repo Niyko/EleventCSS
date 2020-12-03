@@ -155,3 +155,6 @@ And add the CSS variables for the theme color in style. The colors are rgb value
 `````Html
 <span class="el-badge">New one</span>
 `````
+
+## License
+Elevent CSS is licensed under the [MIT LICENSE](https://github.com/Niyko/EleventCSS/blob/master/LICENSE).
