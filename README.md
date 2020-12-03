@@ -1,18 +1,18 @@
-# Components
-## Button
+## Components
+### Button
 `````Html
 <button class="el-btn uk-margin-top">Learn more</button>
 <button class="el-btn el-btn-small el-btn-primary uk-margin-top">Learn more</button>
 <button class="el-btn el-btn-small el-btn-outline uk-margin-top">Learn more</button>
 `````
 
-## Link
+### Link
 `````Html
 <a class="el-link">Edit</a>
 <a class="el-link el-link-primary">Delete</a>
 `````
 
-## Nav bar
+### Nav bar
 `````Html
 <div class="el-nav uk-flex uk-flex-middle">
     <div class="uk-container uk-width-1-1">
@@ -35,14 +35,14 @@
   </div>
 `````
 
-## Content
+### Content
 `````Html
 <h2 class="el-hg-2 uk-margin-remove uk-text-bolder">Lorem ipsum dolor sit, amet consectetur adipisicing elit</h2>
 <h2 class="el-hg-2 uk-margin-remove uk-text-bolder el-text-primary">Lorem ipsum dolor sit, amet consectetur adipisicing elit</h2>
 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum provident reiciendis atque sed id modi esse, doloribus aliquam iure deserunt qui placeat soluta hic porro molestiae quam similique iste. Libero?</p>
 `````
 
-## Table
+### Table
 `````Html
 <table class="el-table uk-width-1-1 uk-margin-top">
     <thead>
@@ -76,7 +76,7 @@
 </table>
 `````
 
-## Form
+### Form
 `````Html
 <form>
   <div>
@@ -98,12 +98,12 @@
 </form>
 `````
 
-## Card
+### Card
 `````Html
 <div class="el-card uk-padding"></div>
 `````
 
-## Modal
+### Modal
 `````Html
 <div id="modal-example" uk-modal>
   <div class="uk-height-1-1">
@@ -126,4 +126,9 @@
     </div>
   </div>
 </div>
+`````
+
+### Badge
+`````Html
+<span class="el-badge">New one</span>
 `````
